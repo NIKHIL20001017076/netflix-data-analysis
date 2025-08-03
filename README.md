@@ -53,17 +53,10 @@ Each column must match exactly for accurate results.
 
 ---
 
-## 📎 Files
-
-- `Code.gs` – All-in-one script for data processing
-- `README.md` – This file
-
----
-
 ## ✍️ Author
 
 Made with 💻 by **Nikhil Singh**
 
-[GitHub Profile](https://github.com/NikhilSingh-76)
+[GitHub Profile](https://github.com/NIKHIL20001017076)
 
 ---
