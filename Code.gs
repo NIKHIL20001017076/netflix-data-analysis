@@ -2,7 +2,7 @@ function analyzeNetflixDataset() {
   const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
   const data = sheet.getDataRange().getValues();
 
-  const rows = data.slice(1); // Skip headers
+  const rows = data.slice(1); // this will skip headers
 
   const typeCount = {};
   const genreCount = {};
@@ -72,7 +72,7 @@ function analyzeNetflixDataset() {
   }
 
   // Output results to a new sheet
-  const outputSheet = getOrCreateSheet_("Analysis Summary");
+  const outputSheet = getOrCreateSheet_("Summary");
   outputSheet.clear();
 
   writeSummary_(outputSheet, "Movies vs TV Shows", typeCount, 1);
