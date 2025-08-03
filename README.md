@@ -25,4 +25,4 @@ This project analyzes Netflix watch data using **Google Sheets** and **Apps Scri
 
 ---
 
-Made with 💻 by [Nikhil Singh](https://github.com/NikhilSingh-76)
+Made with 💻 by [Nikhil Singh](https://github.com/NIKHIL20001017076)
